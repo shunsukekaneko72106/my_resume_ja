@@ -33,7 +33,8 @@
 
 ### サーバー
 
-- AWS(EC2,S3)/Render
+- AWS(EC2,S3)
+- Render
 
 ### その他
 
