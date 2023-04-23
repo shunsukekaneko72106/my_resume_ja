@@ -19,19 +19,26 @@
 
 ### プログラミング言語（中級レベル)
 
-- Ruby (Ruby on Rails)/PHP (CodeIgniter)/JavaScript (TypeScript, Vue.js)/SQL
+- Ruby (Ruby on Rails)
+- PHP (CodeIgniter)
+- JavaScript (TypeScript, Vue.js)
+- SQL
 
 ### プログラミング言語（初級レベル)
 
-- Java/Proessing/Python (Django)/jQuery
+- Java
+- Proessing
+- Python (Django)
+- jQuery
 
-###サーバー
+### サーバー
 
 - AWS(EC2,S3)/Render
 
 ### その他
 
-- Docker/Bootstrap
+- Docker
+- Bootstrap
 
 プログラミングスキルを活用し、効率的で使いやすいシステムやアプリケーションを開発することが得意です。
 また、新しい技術や状況に柔軟に対応できるため、様々なプロジェクトにおいて貢献できると信じています。
